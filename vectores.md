@@ -67,7 +67,7 @@ juguetes.splice(1, 1); // Saca el juguete en la posición 1 ("Muñeca")
 console.log(juguetes); // ["Carro", "Pelota"]
 ```
 
-## ¿Cómo se muestra o imprime la información?
+### ¿Cómo se muestra o imprime la información?
 
 **Usando `console.log`**
 
@@ -90,3 +90,15 @@ for (let i = 0; i < juguetes.length; i++) {
   console.log("Juguete en posición " + i + ": " + juguetes[i]);
 }
 ```
+
+### Ejercicios
+
+1. Crea un vector vacío llamado "colores". Luego agrega 3 colores diferentes y muestra el vector.
+
+2. Crea un vector con los nombres de 5 frutas. Usa un ciclo for para mostrar cada fruta en la consola.
+
+3. Crea un vector con los números del 1 al 5. Luego elimina el número que está en la segunda posición y muestra el resultado.
+
+4. Escribe un programa que recorra un vector de animales y muestre sólo los que tengan más de 5 letras en su nombre.
+
+5. Crea un vector con los números del 1 al 10. Usa un ciclo para sumar todos los números en el vector y muestra el resultado.
