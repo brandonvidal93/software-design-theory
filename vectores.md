@@ -95,10 +95,98 @@ for (let i = 0; i < juguetes.length; i++) {
 
 1. Crea un vector vacío llamado "colores". Luego agrega 3 colores diferentes y muestra el vector.
 
+```javascript
+// Inicializo el vector vacio
+let colores = [];
+
+// Agrego información
+colores.push("naranja", "negro", "azul");
+
+// Recorro el vector
+for(let i = 0; i < colores.length; i++) {
+  console.log(colores[i]);
+}
+```
+
 2. Crea un vector con los nombres de 5 frutas. Usa un ciclo for para mostrar cada fruta en la consola.
+
+```javascript
+// Inicializo el vector vacio
+let frutas = [];
+
+// Agrego información
+frutas.push("naranja", "mora", "coco");
+
+// Recorro el vector
+for(let i = 0; i < frutas.length; i++) {
+  console.log(frutas[i]);
+}
+```
 
 3. Crea un vector con los números del 1 al 5. Luego elimina el número que está en la segunda posición y muestra el resultado.
 
+```javascript
+// Inicializar vector
+let numeros = [1, 2, 3, 4, 5];
+
+numeros.splice(2, 1);
+
+// Recorro el vector
+for(let i = 0; i < numeros.length; i++) {
+  console.log(numeros[i]);
+}
+```
+
 4. Escribe un programa que recorra un vector de animales y muestre sólo los que tengan más de 5 letras en su nombre.
 
+```javascript
+// Definir un vector de tipo string
+let animales = ["Leon", "Tortuga", "Perro", "Gato", "Aguila"];
+
+// Recorrer el vector
+for(let i = 0; i < animales.length; i++) {
+  // Validar que el animal tenga + de 5 letras
+  if(animales[i].length > 5) {
+    console.log(animales[i]);
+  }
+}
+```
+
 5. Crea un vector con los números del 1 al 10. Usa un ciclo para sumar todos los números en el vector y muestra el resultado.
+
+```javascript
+// Definir vector de tipo Number
+let numeros = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+
+// Definir variable para almacenar la suma
+let suma = 0;
+
+// Recorrer el vector para sumar los numeros
+for(let i = 0; i < numeros.length; i++) {
+  suma = suma + numeros[i];
+}
+
+console.log("La suma es: " + suma);
+```
+
+6. Crear un vector con los números del 1 al 20. Luego recorrerlo, sumar solo los números pares y mostrar el resultado
+
+```javascript
+// Definir un vector numerico
+let num = [
+  1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20,
+];
+
+// Definir una variable para guardar la suma
+let resultado = 0;
+
+// Recorremos el vector y sumar los pares
+for (let i = 0; i < num.length; i++) {
+  // Sumar solo los pares
+  if (num[i] % 2 == 0) {
+    resultado = resultado + num[i];
+  }
+}
+
+console.log(resultado);
+```
