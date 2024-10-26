@@ -6,7 +6,7 @@ Configuración paso a paso de **Git** y **GitHub**.
 
 Para crear una cuenta en GitHub ingresa al siguiente enlace [(Haz clic aquí)](github.com)
 
-![alt text](img/image.png)
+![alt text](img/2/image.png)
 
 Ten encuenta lo siguiente:
 
@@ -25,7 +25,7 @@ Una vez te registres debes conservar los datos que hayas creado o tengas creados
 
 - Descarga el instalador de la siguiente página: [Descargar aquí](https://git-scm.com/downloads)
   
-![alt text](img/image-2.png)
+![alt text](img/2/image-2.png)
 
 - Sigue los pasos de instalación.
 - Comprueba que Git haya quedado instalado ejecutando en el terminal del equipo **`(CMD)`** 
@@ -34,7 +34,7 @@ Una vez te registres debes conservar los datos que hayas creado o tengas creados
 git -v
 ```
 
-![alt text](img/image-3.png)
+![alt text](img/2/image-3.png)
 
 Si aparece la versión del Git es que todo ha salido bien.
 
@@ -50,19 +50,19 @@ Para trabajar con repositorios se debe configurar el **`username`** y **`email`*
 
 1. Cierra la sesión de GitHub en el Editor **`(Visual Studio Code)`**
 
-![alt text](img/image-4.png)
+![alt text](img/2/image-4.png)
 
 2. Abre en Windows el **`Administrador de Credenciales (Credential Manager)`**
 
-![alt text](img/image-5.png)
+![alt text](img/2/image-5.png)
 
 3. Selecciona **`Credenciales de Windows (Windows Credentials)`**
 
-![alt text](img/image-6.png)
+![alt text](img/2/image-6.png)
 
 4. Busca todas las credenciales que digan **`git:https://github.com`** y da clic en **`Eliminar (Remove)`**
 
-![alt text](img/image-7.png)
+![alt text](img/2/image-7.png)
 
 5. Configura tu **`username`** y **`email`** abriendo la Terminal de Windows **`(CMD)`** y escribiendo los siguientes comandos.
 
