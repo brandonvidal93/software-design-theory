@@ -16,7 +16,7 @@ Para inicializar un repositorio en nuestro proyecto, seguimos los siguientes pas
 
 Si en **Visual Studio Code** no aparece la opción **`Initialize Repository (Inicializar repositorio)`**, podemos realizar el proceso desde la **Terminal de Windows**.
 
-1. Nos ubicamos en la carpeta donde tenemos los archivos de nuestro proyecto y damos **`clic`** en la ruta de ubicación, borramos la dirección y escribimos **`(CMD)`**
+1. Nos ubicamos en la carpeta donde tenemos los archivos de nuestro proyecto y damos **clic** en la ruta de ubicación, borramos la dirección y escribimos **`(CMD)`**
 
 ![alt text](img/3/image-3.png)
 
