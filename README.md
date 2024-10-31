@@ -15,9 +15,12 @@ En este repositorio encontrarás las notas de clase aparte de los repositorios d
     - Crear Ramas [Ver aquí](./3-crear-ramas.md)
     - Fusionar Ramas [Ver aquí](./3-fusionar-ramas.md)
 
-3. **Backend**
+3. **Node JS**
     - Instalación del Node JS [Ver aquí](./3-instalar-NPM.md)
     - Instalar librerías [Ver aquí](./3-npm-install.md)
+
+4. **Configuración Backend**
+    - Configuración entorno Backend [Ver aquí](./4-config-backend-env.md)
 
 ## Notas Importantes
 - Este documentos y todos los que están en este repositorio están hechos con una sintaxis llamada `Markdown` que se usa para crear archivos de documentación. Puedes consultar la sintaxis en esta página para complementar tus conocimientos [Ver aquí](https://markdown.es/sintaxis-markdown/)

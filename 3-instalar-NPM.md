@@ -1,4 +1,4 @@
-# Configuración Backend
+# Node JS
 
 ## Instalación de Node JS
 
