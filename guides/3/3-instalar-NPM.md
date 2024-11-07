@@ -8,7 +8,7 @@ Este gestor se llama **Node JS**.
 
 1. Para descargar Node JS vamos a la página oficial para descargarlo: [Ir a la Página](https://nodejs.org/en/).
 
-![alt text](./img/4/image.png)
+![alt text](../../img/4/image.png)
 
 Damos **clic** en el Botón **Download Node.js (LTS)**.
 

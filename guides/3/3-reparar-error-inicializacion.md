@@ -11,21 +11,21 @@ Debemos seguir los siguientes pasos:
 
 1. Nos ubicamos en la carpeta donde tenemos nuestro proyecto.
 
-![](./img/3/image-16.png)
+![](../../img/3/image-16.png)
 
 2. Activamos la opción de **archivos ocultos**.
 
 - **Windows 11**
 
-![](./img/3/image-17.png)
+![](../../img/3/image-17.png)
 
 - **Windows 10**
 
-![](./img/3/image-18.png)
+![](../../img/3/image-18.png)
 
 3. Podremos observar que aparece una carpeta oculta llamada **`.git`**
 
-![](./img/3/image-19.png)
+![](../../img/3/image-19.png)
 
 4. Borramos esta carpeta para eliminar la configuración incorrecta de nuestro **Repositorio**.
 

@@ -8,13 +8,13 @@ En todo Repositorio donde se manejen librerías, se deben instalar con el comand
 
 1. Nos ubicamos en la carpeta donde tenemos los archivos de nuestro proyecto y damos **clic** en la ruta de ubicación, borramos la dirección y escribimos **`(CMD)`**
 
-![alt text](img/3/image-3.png)
+![alt text](../../img/3/image-3.png)
 
-![alt text](img/3/image-4.png)
+![alt text](../../img/3/image-4.png)
 
 2. Presionamos la tecla **`Enter`**, esto abrirá la Terminal de Windonws en la ruta de nuestro proyecto.
 
-![alt text](img/3/image-5.png)
+![alt text](../../img/3/image-5.png)
 
 **Nota:** Debemos fijarnos que estemos ubicados en la ruta del proyecto para continuar con el proceso.
 

@@ -14,13 +14,13 @@ Ingresamos a la carpeta **backend-service** para comenzar la configuración del 
 
 1. Damos **clic** en la ruta de ubicación, borramos la dirección y escribimos **`(CMD)`**
 
-![alt text](img/3/image-3.png)
+![alt text](../../img/3/image-3.png)
 
-![alt text](img/3/image-4.png)
+![alt text](../../img/3/image-4.png)
 
 2. Presionamos la tecla **`Enter`**, esto abrirá la Terminal de Windonws en la ruta de nuestro proyecto.
 
-![alt text](img/3/image-5.png)
+![alt text](../../img/3/image-5.png)
 
 3. **Ubicados en la ruta de nuestra carpeta** vamos a instalar las siguientes librerías:
 
