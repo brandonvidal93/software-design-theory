@@ -22,7 +22,13 @@ Ingresamos a la carpeta **backend-service** para comenzar la configuración del 
 
 ![alt text](../../img/3/image-5.png)
 
-3. **Ubicados en la ruta de nuestra carpeta** vamos a instalar las siguientes librerías:
+Escribimos el siguiente comando para inicializar la configuración:
+
+``` bash
+npm init -y
+```
+
+3. Luego **Ubicados en la ruta de nuestra carpeta** vamos a instalar las siguientes librerías:
 
 Estas son las librerías y su función:
 
