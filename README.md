@@ -21,6 +21,13 @@ En este repositorio encontrarás las notas de clase aparte de los repositorios d
 
 4. **Configuración Backend**
     - Configuración entorno Backend [Ver aquí](./4-config-backend-env.md)
+    - Creación de entidades [Ver aquí](./4-creacion-entidades.md)
+    - Configuración de la Base de datos [Ver aquí](./4-config-base-datos.md)
+    - Creación del controlador [Ver aquí](./4-creacion-controlador.md)
+    - Creación de las rutas [Ver aquí](./4-creacion-rutas.md)
+    - Documentación Swagger [Ver aquí](./4-documentacion-swagger.md)
+    - Configuración Servidor [Ver aquí](./4-config-server.md)
+    - Inicialización del Servidor [Ver aquí](./4-inicializacion-server.md)
 
 ## Notas Importantes
 - Este documentos y todos los que están en este repositorio están hechos con una sintaxis llamada `Markdown` que se usa para crear archivos de documentación. Puedes consultar la sintaxis en esta página para complementar tus conocimientos [Ver aquí](https://markdown.es/sintaxis-markdown/)

@@ -37,13 +37,13 @@ Estas son las librerías y su función:
 Usamos el siguiente comando para instalar y presionamos la tecla **Enter**:
 
 ``` bash
-npm install express typeorm reflect-metadata swagger-ui-express cors
+npm install express typeorm reflect-metadata swagger-ui-express swagger-jsdoc cors sqlite3
 ```
 
 Una vez finaliza esta instalación ejecutamos la siguiente:
 
 ``` bash
-npm install --save-dev typescript ts-node-dev @types/express @types/node @types/cors @types/swagger-ui-express
+npm install --save-dev typescript ts-node-dev @types/express @types/node @types/cors @types/swagger-ui-express @types/swagger-jsdoc @types/sqlite3
 ```
 
 4. Luego de instalar las librerías, abrimos la carpeta **backend-service** en **Visual Studio Code** y dentro de esa carpeta creamos el archivo **`tsconfig.json`** el cual tendrá la configuración básica del lenguaje de programación que utilizaremos, el cual es **TypeScript**.
@@ -70,7 +70,7 @@ backend-service/
 ├── node_modules/
 ├── package-lock.json
 ├── package.json
-├── tsconfig.json
+└── tsconfig.json
 ```
 
 5. Abrimos el archivo **`package.json`** y en la parte de **scripts** agregamos lo siguiente:
@@ -98,7 +98,7 @@ backend-service/
 ├── .gitignore
 ├── package-lock.json
 ├── package.json
-├── tsconfig.json
+└── tsconfig.json
 ```
 
 De esta manera quedaría la configuración básica para trabajar en nuestro backend.
