@@ -170,3 +170,5 @@ productRoutes.delete("/:id", deleteProduct);
 
 export default productRoutes;
 ```
+
+## [Volver al Menú](../../README.md)

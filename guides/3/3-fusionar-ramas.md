@@ -33,3 +33,5 @@ Este procedimiento lo que va a hacer es que va a comparar ambas ramas (**`develo
 De esta manera nuestra rama **`develop`** está actualizada con los últimos cambios y podremos crear nuevas ramas de trabajo con estos cambios.
 
 **Nota:** Debes tener presente que para fusionar cambios en la rama **`main`** lo que haya desarrollador en **`develop`** debe ser funcional para que pueda ser utilizado por los usuarios.
+
+## [Volver al Menú](../../README.md)

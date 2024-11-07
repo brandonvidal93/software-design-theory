@@ -54,3 +54,5 @@ const swaggerSpec = swaggerJsdoc(swaggerOptions);
 
 export default swaggerSpec;
 ```
+
+## [Volver al Menú](../../README.md)

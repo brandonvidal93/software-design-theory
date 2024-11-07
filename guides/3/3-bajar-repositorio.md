@@ -25,3 +25,5 @@ Si todo se ejecuta correctamente aparecerá siguiente información en la Termina
 ![](../../img/3/image-25.png)
 
 4. Una vez descargado el Repositorio se debe abrir desde **Visual Studio Code** para trabajar en el.
+
+## [Volver al Menú](../../README.md)

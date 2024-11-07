@@ -30,3 +30,5 @@ Debemos seguir los siguientes pasos:
 4. Borramos esta carpeta para eliminar la configuración incorrecta de nuestro **Repositorio**.
 
 5. Realizamos nuevamente el procedimiento de **Inicializar un Repositorio** [Ver aquí](./3-inicializar-repositorio.md).
+
+## [Volver al Menú](../../README.md)

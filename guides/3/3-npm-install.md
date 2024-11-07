@@ -25,3 +25,5 @@ npm install
 ```
 
 4. Presionamos la tecla **`Enter`** para que comience el proceso de instalación. Si todo se ejecuta correctamente se descargarán las librerías del proyecto que se encuentran registradas en el **`package.json`**.
+
+## [Volver al Menú](../../README.md)

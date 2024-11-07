@@ -71,3 +71,5 @@ export class Product {
 ```
 
 Recuerda que una entidad representa algo del mundo real en el software, ejemplo si tu página es sobre casa y apartamentos tu entidad se debería llamar **`Builds.ts`** y llevas los campos o características. El nombre siempre de ir con la primera letra en Mayúscula por convención de desarrollo.
+
+## [Volver al Menú](../../README.md)
