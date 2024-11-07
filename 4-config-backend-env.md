@@ -7,7 +7,7 @@ Debemos crear una carpeta general para nuestro proyecto la cual se vería de la 
 ``` bash
 nombre-proyecto/
 ├── backend-service/
-├── frontend-app/
+└── frontend-app/
 ```
 
 Ingresamos a la carpeta **backend-service** para comenzar la configuración del Servidor.
