@@ -58,7 +58,6 @@ AppDataSource.initialize()
 
       console.log(`Endpoints:`);
       console.log(`API Products http://localhost:${PORT}/api/products`);
-      console.log(`API Orders http://localhost:${PORT}/api/orders\n`);
 
       console.log(`Documentación:`);
       console.log(`Swagger en http://localhost:${PORT}/api-docs`);

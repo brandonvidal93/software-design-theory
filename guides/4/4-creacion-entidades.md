@@ -52,7 +52,6 @@ backend-service/
 
 ``` typescript
 import { Entity, PrimaryGeneratedColumn, Column } from "typeorm";
-import { Order } from "./Order";
 
 @Entity()
 export class Product {
