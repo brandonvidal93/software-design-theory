@@ -29,5 +29,12 @@ En este repositorio encontrarás las notas de clase aparte de los repositorios d
     - Configuración Servidor [Ver aquí](guides/4/4-config-server.md)
     - Inicialización del Servidor [Ver aquí](guides/4/4-inicializacion-server.md)
 
+5. **Desarrollando Frontend**
+    - Configuración de archivos HTML [Ver aquí](guides/5/config-html.md)
+    - Menú de navegación [Ver aquí](guides/5/menu-nav.md)
+    - Configurando API para conectarse al Backend []()
+    - Colocar items en página principal []()
+    - Formulario para agregar []()
+
 ## Notas Importantes
 - Este documentos y todos los que están en este repositorio están hechos con una sintaxis llamada `Markdown` que se usa para crear archivos de documentación. Puedes consultar la sintaxis en esta página para complementar tus conocimientos [Ver aquí](https://markdown.es/sintaxis-markdown/)
