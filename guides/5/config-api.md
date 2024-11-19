@@ -14,7 +14,13 @@ En este archivo vamos a crear los métodos que se conectaran a los servicios **H
 // Colocamos la ruta del servidor 
 const API_URL = "http://localhost:3000/api/products";
 
-/ Obtener Producto por ID
+// Obtener todos los productos
+export const getProducts = async () => {
+  const response = await fetch(API_URL);
+  return response.json();
+};
+
+// Obtener Producto por ID
 export const getProductByID = async (id) => {
   const response = await fetch(`${API_URL}/${id}`);
   return response.json();
