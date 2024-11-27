@@ -29,13 +29,18 @@ En este repositorio encontrarás las notas de clase aparte de los repositorios d
     - Configuración Servidor [Ver aquí](guides/4/4-config-server.md)
     - Inicialización del Servidor [Ver aquí](guides/4/4-inicializacion-server.md)
 
-5. **Desarrollando Frontend**
+5. **Desarrollando Frontend - Incluido colocar Imagen**
     - Configuración de archivos HTML [Ver aquí](guides/5/config-html.md)
     - Menú de navegación [Ver aquí](guides/5/menu-nav.md)
     - Configurando API para conectarse al Backend [Ver aquí](guides/5/config-api.md)
     - Colocar items en página principal [Ver aquí](guides/5/config-pagina-principal.md)
     - Formulario para agregar [Ver aquí](guides/5/config-add-form.md)
     - Probar la aplicación [Ver aquí](guides/5/test-project.md)
+
+6. **Colocar Imagénes - Backend**
+    - Modificando la Entidad [Ver aquí](guides/6/edit-entity.md)
+    - Modificando el Controlador [Ver aquí](guides/6/edit-controller.md)
+    - Modificando la documentación del Swagger [Ver aquí](guides/6/edit-doc-swagger.md)
 
 ## Notas Importantes
 - Este documentos y todos los que están en este repositorio están hechos con una sintaxis llamada `Markdown` que se usa para crear archivos de documentación. Puedes consultar la sintaxis en esta página para complementar tus conocimientos [Ver aquí](https://markdown.es/sintaxis-markdown/)
